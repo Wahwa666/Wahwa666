@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Привет, я [Артур](https://hh.ru/resume/05bbfadfff081d37af0039ed1f516d7a793069), веб-разработчик с горящими глазами и жаждущий развития. Развиваюсь семимильными шагами и каждый раз стараюсь улучшать качество своего кода
+Привет, я [Артур](https://hh.ru/resume/05bbfadfff081d37af0039ed1f516d7a793069), молодой развивающийся веб-разработчик. Разрабатываю серверную часть веб приложений и постоянно совершенствую свои навыки в данном направлении.
 
-Имею профильное высшее образование, коммерческий опыт работы и надеюсь мой гитхаб чем-то да будет полезен
+Имею профильное высшее образование, коммерческий опыт работы и надеюсь мой гитхаб чем-то да будет интересен.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
@@ -25,7 +25,7 @@
 <code><img height="20" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></code>
 
 
-Недавно начал решать задачи на LeetCode, но пока делаю упор на свои проекты
+От скуки решил пару задач на LeetCode, считаю надо понтануться этим ахаахха
 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DAREDEVILAR&theme=dark)](https://github.com/Wahwa666/leetcode-stats)"
