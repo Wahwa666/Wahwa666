@@ -6,10 +6,10 @@
 
 Имею профильное высшее образование, коммерческий опыт работы и надеюсь мой гитхаб чем-то да будет полезен
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 Есть работа? Напишите мне в [telegram](https://t.me/DaredevilAr) :)
-- 💬 Можете также расспросить меня о чем либо, я всегда готов ответить;
+- 💬 Можете также расспросить меня о чем-либо, я всегда готов ответить;
 
 **Мои навыки:**  
 
@@ -25,7 +25,9 @@
 <code><img height="20" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></code>
 
 
-Не давно начал решать задачи на LeetCode
+Недавно начал решать задачи на LeetCode, но пока делаю упор на свои проекты
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DAREDEVILAR&theme=dark)](https://github.com/Wahwa666/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DAREDEVILAR&theme=dark)](https://github.com/Wahwa666/leetcode-stats)"
+
+
